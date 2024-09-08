@@ -6,7 +6,7 @@
 
 Directory: [`redirections`](./redirections)
 
-### Simple redirections withou formatting
+### Simple redirections without formatting
 
 Execute:
 
