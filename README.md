@@ -59,7 +59,7 @@ the_logger 2024-07-05T22:22:37 STDERR message
 Execute:
 
 ```bash
-./redirections/redirection.exec.01.simple.sh
+./redirections/redirection.exec.03.json_jq.sh
 ```
 
 Terminal output:
