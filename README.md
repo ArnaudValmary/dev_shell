@@ -1,6 +1,10 @@
 # dev_shell
 
-[toc]
+## Tools
+
+### Count token
+
+[count_token.sh](./doc/count_token.md)
 
 ## Redirections
 
